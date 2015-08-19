@@ -1,2 +1,3 @@
-# NumberWizard
-Unity C# Number guessing games
+# NumberWizard 
+C# Number guessing game
+
